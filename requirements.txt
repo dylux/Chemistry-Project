@@ -3,4 +3,4 @@ matplotlib
 numba
 sympy
 mpmath
-mayavi
+mayavi2
